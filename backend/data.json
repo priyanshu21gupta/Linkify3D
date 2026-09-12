@@ -1,0 +1,78 @@
+[
+  {
+    "id": 1786881060006,
+    "user_id": 1786867932715,
+    "code": "DWbJWK",
+    "original_url": "https://www.youtube.com",
+    "clicks": 1,
+    "created_at": "2026-08-16T11:51:00.006Z",
+    "expires_at": null,
+    "click_history": [
+      {
+        "timestamp": "2026-08-16T12:06:27.931Z"
+      }
+    ]
+  },
+  {
+    "id": 1786883298236,
+    "user_id": 1786867932715,
+    "code": "ZeRCQn",
+    "original_url": "https://www.youtube.com",
+    "clicks": 1,
+    "created_at": "2026-08-16T12:28:18.236Z",
+    "expires_at": null,
+    "click_history": [
+      {
+        "timestamp": "2026-08-16T17:32:56.663Z"
+      }
+    ]
+  },
+  {
+    "id": 1786901488439,
+    "user_id": 1786867932715,
+    "code": "jmzmpp",
+    "original_url": "https://www.google.com",
+    "clicks": 2,
+    "created_at": "2026-08-16T17:31:28.439Z",
+    "expires_at": null,
+    "click_history": [
+      {
+        "timestamp": "2026-08-16T17:32:26.785Z"
+      },
+      {
+        "timestamp": "2026-08-16T17:32:49.300Z"
+      }
+    ]
+  },
+  {
+    "id": 1789210188680,
+    "code": "yTXd50",
+    "original_url": "https://youtu.be/VlPiVmYuoqw?si=LxL6nIJEQ2xxoNb5",
+    "clicks": 1,
+    "created_at": "2026-09-12T10:49:48.680Z",
+    "expires_at": null,
+    "click_history": [
+      {
+        "timestamp": "2026-09-12T10:49:58.132Z"
+      }
+    ]
+  },
+  {
+    "id": 1789210245161,
+    "code": "99MOwz",
+    "original_url": "http://localhost:3000/yTXd50",
+    "clicks": 0,
+    "created_at": "2026-09-12T10:50:45.161Z",
+    "expires_at": "2026-09-19T10:50:45.160Z",
+    "click_history": []
+  },
+  {
+    "id": 1789210387036,
+    "code": "dsfdsfs",
+    "original_url": "https://youtu.be/VlPiVmYuoqw?si=LxL6nIJEQ2xxoNb5",
+    "clicks": 0,
+    "created_at": "2026-09-12T10:53:07.036Z",
+    "expires_at": null,
+    "click_history": []
+  }
+]
